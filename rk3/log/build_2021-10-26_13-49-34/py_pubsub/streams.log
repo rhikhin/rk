@@ -1,0 +1,22 @@
+[0.207s] Invoking command in '/home/khin/rk3/src/py_pubsub': PYTHONPATH=/home/khin/rk3/install/py_pubsub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/khin/rk3/build/py_pubsub/build install --prefix /home/khin/rk3/install/py_pubsub --record /home/khin/rk3/build/py_pubsub/install.log --single-version-externally-managed
+[0.387s] running egg_info
+[0.387s] writing ../../build/py_pubsub/py_pubsub.egg-info/PKG-INFO
+[0.388s] writing dependency_links to ../../build/py_pubsub/py_pubsub.egg-info/dependency_links.txt
+[0.388s] writing entry points to ../../build/py_pubsub/py_pubsub.egg-info/entry_points.txt
+[0.388s] writing requirements to ../../build/py_pubsub/py_pubsub.egg-info/requires.txt
+[0.388s] writing top-level names to ../../build/py_pubsub/py_pubsub.egg-info/top_level.txt
+[0.416s] reading manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.416s] writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.417s] running build
+[0.417s] running build_py
+[0.417s] running install
+[0.418s] running install_lib
+[0.419s] running install_data
+[0.419s] running install_egg_info
+[0.420s] removing '/home/khin/rk3/install/py_pubsub/lib/python3.8/site-packages/py_pubsub-0.0.0-py3.8.egg-info' (and everything under it)
+[0.421s] Copying ../../build/py_pubsub/py_pubsub.egg-info to /home/khin/rk3/install/py_pubsub/lib/python3.8/site-packages/py_pubsub-0.0.0-py3.8.egg-info
+[0.421s] running install_scripts
+[0.435s] Installing listener script to /home/khin/rk3/install/py_pubsub/lib/py_pubsub
+[0.435s] Installing talker script to /home/khin/rk3/install/py_pubsub/lib/py_pubsub
+[0.436s] writing list of installed files to '/home/khin/rk3/build/py_pubsub/install.log'
+[0.453s] Invoked command in '/home/khin/rk3/src/py_pubsub' returned '0': PYTHONPATH=/home/khin/rk3/install/py_pubsub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/khin/rk3/build/py_pubsub/build install --prefix /home/khin/rk3/install/py_pubsub --record /home/khin/rk3/build/py_pubsub/install.log --single-version-externally-managed
